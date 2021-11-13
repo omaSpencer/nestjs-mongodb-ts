@@ -26,3 +26,11 @@ lerna-debug.log*
 .settings/
 *.sublime-workspace
 .vscode
+
+# Environment 
+.env
+.env.local 
+
+# Package Management
+package-lock.json
+yarn.lock
